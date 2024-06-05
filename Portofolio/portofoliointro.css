@@ -1,0 +1,43 @@
+body{
+    background-image: url(img/wp2097032-gondor-wallpapers.jpg);
+}
+
+input{
+    position: relative;
+    left: 600px;
+    top: 250px;
+    size: 500px;
+    padding: 15px, 20px;
+   background-color: khaki;
+   color: black;
+   border-radius: 8px;
+   border: 18px black;
+}
+button{
+    position: relative;
+    left: 600px;
+    top: 250px;
+    size: 1000px;
+    background-color: khaki;
+    padding: 15px, 20px;
+    border-radius: 8px;
+    border: 1px black;
+}  
+
+h1{
+    position: relative;
+    left: 410px;
+    top: 250px;
+    color:khaki;
+    border: 3px,black;
+    background-size:cover;
+
+}
+
+   
+
+button:hover{
+   
+    background-color: white;
+    
+}

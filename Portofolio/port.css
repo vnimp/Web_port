@@ -1,0 +1,24 @@
+body{
+    background-image: url('img/wp152909-lord-of-the-rings-wallpapers.jpg');
+}
+li  {   
+    position: relative;
+    top: 25px;
+    left: 300px;
+    font-size: larger;
+}
+ul{
+    position: relative;
+    top: 25px;
+    left: 300px;
+    font-size: larger;
+
+}
+
+h1{
+    position: relative;
+    left: 615px;
+    top: 70px;
+   
+}
+
