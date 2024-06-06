@@ -1,1 +1,43 @@
+Elementen selecteren v
+Elementen manipuleren V
+Event aan een element koppelen V
+Formulier valideren V
+Gebruiken van een constante V 
+Gebruiken van template literals V
+Destructuring
+Spread & Rest operator v
+Iteration over een array v
+Arrow function V
+Callback function
+Promise
+Consumer methods V
+Async & Await V
+Self executing function V
+Fetch om data op te halen V
+JSON manipuleren en weergeven v
+Basis CSS Animatie
+Gebruiken van een flexbox of CSS grid
+Gebruik van LocalStorage V
 
+
+Callback function
+Basis CSS Animatie
+Gebruiken van een flexbox of CSS grid
+
+
+
+
+formulier valideren => event listener voor submit event, selecteer ook element => is een arrow function=> slaat op in localstorage=>  
+8/20
+
+als ik json ophaal is al (Async en await,fetch,)
+
+Actual done list: 1,2,3,4,5,6,7,8,9,10,12,14,16,17,20= 12/20
+
+
+//lijst aanmaken compacter V
+//alles dynamisch laten verschijnen V
+//val (geen nummers of onbestaande namen); V
+//form submitten V
+//terugknop 
+//"test" als naam voor id weg V
