@@ -28,6 +28,7 @@ Gebruik van LocalStorage V => Port js line 66.
 - [self invoking functions](W3Schools.com. (n.d.-b). https://www.w3schools.com/js/js_function_definition.asp)
 - [Spread](Spread syntax (. . .) - JavaScript | MDN. (2023, September 25). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [mouseover](Javascript addEventListener - using to create a mouseover effect? (n.d.). Stack Overflow. https://stackoverflow.com/questions/8318591/javascript-addeventlistener-using-to-create-a-mouseover-effect)
-- [Rest](Rest parameters - JavaScript | MDN. (2023, September 7). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+- [Rest](Rest parameters - JavaScript | MDN. (2023, September 7). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) - [afbeeldingen](wallpapercave.com)
+- [afbeeldingen](Wikipedia contributors. (2024, May 17). One ring. Wikipedia. https://en.wikipedia.org/wiki/One_Ring)
 
 
