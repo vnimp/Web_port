@@ -21,4 +21,13 @@ Gebruiken van een flexbox of CSS grid => portofoliointro.css line 44 / portofoli
 Gebruik van LocalStorage V => Port js line 66.
 
 # Bronnen
+- ["includes"](Array.prototype.includes() - JavaScript | MDN. (2024, February 8). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+- [handling null values](Conditional (ternary) operator - JavaScript | MDN. (2023, September 7). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+- [One api](The one API. (n.d.). https://the-one-api.dev/documentation)
+- [Destructuring](W3Schools.com. (n.d.). https://www.w3schools.com/react/react_es6_destructuring.asp)
+- [self invoking functions](W3Schools.com. (n.d.-b). https://www.w3schools.com/js/js_function_definition.asp)
+- [Spread](Spread syntax (. . .) - JavaScript | MDN. (2023, September 25). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [mouseover](Javascript addEventListener - using to create a mouseover effect? (n.d.). Stack Overflow. https://stackoverflow.com/questions/8318591/javascript-addeventlistener-using-to-create-a-mouseover-effect)
+- [Rest](Rest parameters - JavaScript | MDN. (2023, September 7). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+
 
