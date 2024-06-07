@@ -5,20 +5,14 @@ Formulier valideren V => port.js line 26(checken op alleen letters is automatisc
 Gebruiken van een constante V => mainscreen.js line 1
 Gebruiken van template literals V => mainscreen.js line 4
 Destructuring => port.js line 6
-
-Spread & Rest operator v
-
+Spread (=>port.js line 44) & Rest operator(=>port.js functie op line 4 en aanroepen gebeurt in self executing function op line 19)
 Iteration over een array v => mainscreen line 25 
 Arrow function V => port js line 15
-
 Callback function => mainscreen.js line 11
 Promise => mainscreen.js line 36 
 Consumer methods => mainsreen.js line 25
-
 Async & Await V => mainscreen.js line 36
-
 Self executing function => port.js line 5 
-
 Fetch om data op te halen V => mainscreen => line  11
 JSON manipuleren en weergeven v =>Mainscreen.js line 22
 Basis CSS Animatie => port css line 25
@@ -26,35 +20,10 @@ Gebruiken van een flexbox of CSS grid => portofolio.css line 44 / portofolio.htm
 Gebruik van LocalStorage V => Port js line 33.
 
 
-Spread & Rest operator 
-
-
-
-
-
-
-
-
-
-
-Callback function
-Basis CSS Animatie
-Gebruiken van een flexbox of CSS grid
-
-
-
-
-formulier valideren => event listener voor submit event, selecteer ook element => is een arrow function=> slaat op in localstorage=>  
-8/20
-
-als ik json ophaal is al (Async en await,fetch,)
-
-Actual done list: 1,2,3,4,5,6,7,8,9,10,12,14,16,17,20= 12/20
-
 
 //lijst aanmaken compacter V
 //alles dynamisch laten verschijnen V
 //val (geen nummers of onbestaande namen); V
 //form submitten V
-//terugknop 
+//terugknop v
 //"test" als naam voor id weg V

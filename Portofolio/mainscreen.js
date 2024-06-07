@@ -13,7 +13,7 @@ document.getElementById('back').addEventListener('click',function(){
         Displayinfo(Char);
     });
     
-
+ 
 
     //functies
 //Json manipuleren en weergeven 
