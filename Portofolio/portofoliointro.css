@@ -3,9 +3,9 @@ body{
 }
 
 input{
-    position: relative;
-    left: 600px;
-    top: 250px;
+    position: absolute;
+    left: 620px;
+    top: 315px;
     size: 500px;
     padding: 15px, 20px;
    background-color: khaki;
@@ -14,9 +14,9 @@ input{
    border: 18px black;
 }
 button{
-    position: relative;
-    left: 600px;
-    top: 250px;
+    position: absolute;
+    left: 795px;
+    top: 315px;
     size: 1000px;
     background-color: khaki;
     padding: 15px, 20px;
@@ -41,3 +41,24 @@ button:hover{
     background-color: white;
     
 }
+.nav{
+    display: flex;
+    color: yellow;
+    justify-content: space-between;
+    
+   /* position: absolute;
+    top: 20px;
+    left: 600px;*/
+}
+
+img{
+width: 50px;
+height: 50px;
+left: 680px;
+top:200px; 
+
+position: absolute;
+}
+
+
+
